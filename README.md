@@ -52,6 +52,9 @@ A GUI-based tool for converting Python scripts into standalone executable files.
 
 Contributions are welcome! Please submit a pull request or open an issue if you encounter any bugs or have feature requests.
 
+## Developer
+Syed Mansoor ul Hassan Bukhari
+
 ## Contact
 
 For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/cyberfantics/py-to-exe).
