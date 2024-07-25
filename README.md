@@ -33,15 +33,15 @@ A GUI-based tool for converting Python scripts into standalone executable files.
 
 1. **Select a Python File:**
 
-   ![Select Python File](path/to/screenshot.png)
+   ![Select Python File](screenshot/1.png)
 
 2. **Select an Icon File (Optional):**
 
-   ![Select Icon File](path/to/screenshot.png)
+   ![Select Icon File](screenshot/2.png)
 
 3. **Start Conversion:**
 
-   ![Conversion Process](path/to/screenshot.png)
+   ![Conversion Process](screenshot/3.png)
 
 ## Troubleshooting
 
